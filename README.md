@@ -1,3 +1,4 @@
 # Project2
 This is my project two
-i ahve to pull into the github
+I have  to push into the github
+this project is created by my local system.

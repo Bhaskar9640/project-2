@@ -32,7 +32,7 @@ ul{
     align-items: center;
 }
 
-header{
+.navbar{
   display: flex;
   border: 2px solid black;
   justify-content: space-between;
@@ -47,7 +47,7 @@ header{
 
 }
 @media(max-width:600px){
-    header{
+    .navbar{
         flex-direction: column;
         gap: 20px;
     }
@@ -58,7 +58,7 @@ header{
     }
 
 }
-header{
+.navbar{
     display: none;
 }
 .show{
